@@ -309,19 +309,19 @@ http://localhost:8501
 
 ## URL Input
 
-![URL Input](assets/url-input.png)
+![URL Input](assets/urlinput.png)
 
 ---
 
 ## Research Interface
 
-![Research Interface](assets/homepage.png)
+![Research Interface](assets/homepage1.png)
 
 ---
 
 ## Answer Generation
 
-![Answer Example](assets/answer-example.png)
+![Answer Example](assets/answer-output.png)
 
 ---
 
