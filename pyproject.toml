@@ -1,0 +1,22 @@
+[project]
+name = "news-research-bot"
+version = "0.1.0"
+description = "AI-powered News Research Assistant using LangChain, FAISS, HuggingFace and Streamlit."
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "streamlit",
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-huggingface",
+    "huggingface-hub",
+    "sentence-transformers",
+    "transformers",
+    "torch",
+    "faiss-cpu",
+    "python-dotenv",
+    "unstructured",
+    "beautifulsoup4",
+]
